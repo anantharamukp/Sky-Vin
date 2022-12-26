@@ -40,8 +40,8 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "dsbro")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001782419622'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'LazyPrincessSupport')
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001674393946'))
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/suppooortv')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), False)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), False)
