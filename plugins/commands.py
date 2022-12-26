@@ -50,8 +50,8 @@ async def start(client, message):
             InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/MM_MOVIESSS"),
             InlineKeyboardButton('🔔 UᎮDΛTΞS 🤖', url='https://t.me/MM_MOVIESSS')
             ],[
-             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
-            InlineKeyboardButton('♥️ About ♥️', callback_data='about')
+             InlineKeyboardButton('🤔 Help 🤔', callback_data='help'),
+            InlineKeyboardButton('🤡 About ♥️', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/real_MoviesAdda1"),
-            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/LazyDeveloper')
+            InlineKeyboardButton('⚡  Updates ⚡', url=f"https://t.me/MM_MOVIESSS"),
+            InlineKeyboardButton('🔔 SUBSCᏒIBΞ 🤖', url='https://t.me/MM_MOVIESSS')
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
