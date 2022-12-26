@@ -104,27 +104,11 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
-
-<b>⏳ ʙᴏᴛ ᴜᴘᴛɪᴍᴇ:</b> <code>{}</code>
-
-<b>☣️ ᴄᴘᴜ:</b> <code>{}%</code>
-
-<b>☢️ ʀᴀᴍ:</b> <code>{}%</code>
-
-<b>📊 ғɪʟᴇs sᴀᴠᴇᴅ:</b> <code>{}</code>
-
+    STATUS_TXT = """<b>📂 ғɪʟᴇs sᴀᴠᴇᴅ:</b> <code>{}</code>
 <b>👤 ᴜsᴇʀs:</b> <code>{}</code>
-
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
-
-<b>♻️ ᴛᴏᴛᴀʟ:</b> <code>512 MB</code>
-
-<b>🉐 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
-
-<b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
-
-<b>⍟────[ @MM_MOVIESSS ]─────⍟</b>"""
+<b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
+<b><a href=https://t.me/MM_MOVIESSS>~ Maintained by MM_MOVIESSS</a></b>"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
