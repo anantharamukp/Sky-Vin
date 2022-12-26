@@ -104,11 +104,27 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+    STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
+
+<b>⏳ ʙᴏᴛ ᴜᴘᴛɪᴍᴇ:</b> <code>{}</code>
+
+<b>☣️ ᴄᴘᴜ:</b> <code>{}%</code>
+
+<b>☢️ ʀᴀᴍ:</b> <code>{}%</code>
+
+<b>📊 ғɪʟᴇs sᴀᴠᴇᴅ:</b> <code>{}</code>
+
+<b>👤 ᴜsᴇʀs:</b> <code>{}</code>
+
+<b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
+
+<b>♻️ ᴛᴏᴛᴀʟ:</b> <code>512 MB</code>
+
+<b>🉐 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
+
+<b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
+
+<b>⍟────[ @MM_MOVIESSS ]─────⍟</b>"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
