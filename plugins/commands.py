@@ -93,10 +93,10 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡  UᎮDΛTΞS ⚡', url=f"https://t.me/MM_MOVIESSS"),
-            InlineKeyboardButton('🔔 SUBSCᏒIBΞ 🤖', url='https://t.me/MM_MOVIESSS')
+            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/MM_MOVIESSS"),
+            InlineKeyboardButton('🔔 UᎮDΛTΞS 🤖', url='https://t.me/MM_MOVIESSS')
             ],[
-             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
+             InlineKeyboardButton('🤔 Help 🤔', callback_data='help'),
             InlineKeyboardButton('🤡 About ♥️', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
